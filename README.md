@@ -1,4 +1,4 @@
-# 😊 Facial Emotion Recognition with EfficientNetV2M and Attention Mechanisms — *AffectNet Case Study*  
+#  Facial Emotion Recognition with EfficientNetV2M and Attention Mechanisms — *AffectNet Case Study*  
 
 **Description:**  
 Developed a deep learning model for **Facial Emotion Recognition (FER)** based on **EfficientNetV2M** architecture, enhanced with attention mechanisms for improved feature focus and model interpretability.  
