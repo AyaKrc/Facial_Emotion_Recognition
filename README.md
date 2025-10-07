@@ -38,5 +38,5 @@ The system classifies four primary emotions — **Happiness, Sadness, Fear, and 
 
 **Sample Prediction Result:**  
 
-![FER Prediction Example](.fer_prediction_result.png)  
+![FER Prediction Example](fer_prediction_result.png)  
 *Example of a facial emotion recognition prediction on unseen data — the model correctly identified the emotion based on key facial features.*  
