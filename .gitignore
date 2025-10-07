@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Flask cache and compiled files
+instance/
+*.log
+
+# Model or large files (optional)
+*.h5
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
